@@ -76,7 +76,7 @@ No worries! We'll walk you through the steps.
 Open your terminal and type the following command to clone this repository into your code editor:
 
 ```sh
-git clone https://github.com/adithyapaib/Neomorphic-PortfolioTemplate.git
+
 ```
 
 Next, make the changes you want in the code.
@@ -97,16 +97,16 @@ When prompted, type up a ***clear and well-written*** pull request title and mes
 
 And again, thanks for contributing!
   
-# Hi, I'm Adithya! 👋
+# Hi, I'm Nadeem ahmad! 👋
 
 ## 🚀 About Me
 I'm a Front-End Developer and Open-Source Enthusiast.
 
   
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adithyapai.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyapaib)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adithyapaib)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
   
 ## 🛠 Skills
