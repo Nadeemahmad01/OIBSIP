@@ -3,7 +3,7 @@
 
 #### Please make sure your are commmiting your changes to the right branch 
 #### If you PR to the wrong branch then there will be merge conflicts !!!
-For any Queries pls reach me via https://www.linkedin.com/in/adithyapaib/
+For any Queries pls reach me via https://www.linkedin.com/in/nadeem-ahmad-b13b4926b/
 
 ##
 
@@ -28,7 +28,7 @@ Made with:
 
 # Click here for Live Preview
 
-https://adithyapaib.github.io/Neomorphic-PortfolioTemplate/
+https://https://github.com/Nadeemahmad01/
 
 # Template Preview
 
@@ -49,7 +49,7 @@ This is an OpenSource Portfolio Template Based on Neomorphic Theme Made with pur
   
 ## Demo
 
-https://adithyapaib.github.io/Neomorphic-PortfolioTemplate/
+https://https://github.com/Nadeemahmad01/
 
   
 ## Features
